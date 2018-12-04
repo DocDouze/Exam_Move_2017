@@ -1,0 +1,8 @@
+prefix=/home/aubailly/Bureau/catkin_exam/devel
+
+Name: urdf_tutorial
+Description: Description of urdf_tutorial
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/aubailly/Bureau/catkin_exam/devel/lib 
+Requires: 

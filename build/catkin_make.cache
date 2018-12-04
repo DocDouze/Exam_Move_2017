@@ -1,0 +1,2 @@
+move_printer:move_printer_moveit
+-DCATKIN_DEVEL_PREFIX=/home/aubailly/Bureau/catkin_exam/devel -DCMAKE_INSTALL_PREFIX=/home/aubailly/Bureau/catkin_exam/install -G Unix Makefiles

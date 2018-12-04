@@ -1,0 +1,8 @@
+prefix=/home/aubailly/Bureau/catkin_exam/devel
+
+Name: move_printer
+Description: Description of move_printer
+Version: 0.0.0
+Cflags: -I/home/aubailly/Bureau/catkin_exam/devel/include
+Libs: -L/home/aubailly/Bureau/catkin_exam/devel/lib 
+Requires: 
